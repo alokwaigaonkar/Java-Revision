@@ -1,7 +1,7 @@
-public class ReversingAlgorithm {
+package PatternPrinting;
 
-    public static 
+public class TS2 {
     public static void main(String[] args) {
-
+        
     }
 }
