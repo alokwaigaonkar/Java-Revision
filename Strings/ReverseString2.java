@@ -1,4 +1,4 @@
-public class ReverseString {
+public class ReverseString2 {
 
     public static String reverseString(String str){
         if(str == null || str.isEmpty()){
