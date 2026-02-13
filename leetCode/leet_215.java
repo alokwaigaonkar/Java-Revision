@@ -41,9 +41,6 @@ public class leet_215 {
     }
     
     public static void main(String[] args) {
-        int [] arr = {3,2,1,5,6,4};
-        int result = solution(arr, 0, arr.length-1);
-        System.out.println(result);
 
     }
 }

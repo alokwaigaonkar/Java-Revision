@@ -1,7 +1,5 @@
 
 
-import java.util.ArrayList;
-
 public class LeetCode_9{
     public static boolean  isPalindrome(int x) {
         String str = Integer.toString(x);
@@ -17,7 +15,6 @@ public class LeetCode_9{
         return true;
     }
     public static void main(String [] args){
-        ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
         int n = 1000021;
         System.out.println(isPalindrome(n));
     }
