@@ -8,7 +8,6 @@ public class PS6 {
         int left =0;
         int bottom = n-1;
         int right = n-1;
-        int val = 1;
         int[][] matrix = {
             {1, 2, 3, 4},
             {12, 13, 14, 5},
